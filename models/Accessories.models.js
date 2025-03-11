@@ -47,4 +47,6 @@ const accessoriesSchema = new mongoose.Schema({
 },
 {timestamps: true})
 
-const accessories = 
+const Accessories = mongoose.model('Accessories', accessoriesSchema)
+
+module.exports = Accessories
