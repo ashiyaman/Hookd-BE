@@ -1,356 +1,4754 @@
 [
   {
-    "name": "Wireless Bluetooth Earbuds",
-    "description": "Noise-canceling earbuds with long battery life.",
-    "category": "Audio Accessories",
-    "compatiable": ["iPhone 14", "Samsung Galaxy S23"],
-    "material": "Plastic",
-    "price": 79.99,
-    "daysForReplacement": 7,
-    "warranty": true,
-    "yearsForWarranty": 1,
-    "images": ["https://example.com/earbuds1.jpg"],
-    "model": "EB-2000",
-    "productCode": "EB2000-BLK",
-    "color": "Black",
-    "specifications": ["Bluetooth 5.2", "24h playtime", "Water-resistant"],
-    "reviews": ["Great quality!", "Worth the price."],
-    "tags": ["wireless", "earbuds", "bluetooth"]
-  },
-  {
-    "name": "Magnetic Phone Holder",
-    "description": "Strong magnetic phone holder for cars.",
-    "category": "Car Accessories",
-    "compatiable": ["iPhone", "Samsung", "OnePlus"],
+    "name": "Portronics Bluetooth Speakers Model 1",
+    "description": "High-quality Bluetooth Speakers designed for the modern user.",
+    "subCategory": "Bluetooth Speakers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
     "material": "Aluminum",
-    "price": 15.99,
-    "daysForReplacement": 7,
-    "warranty": false,
-    "images": ["https://example.com/holder1.jpg"],
-    "model": "MPH-100",
-    "productCode": "MPH100-SLV",
-    "color": "Silver",
-    "specifications": ["360-degree rotation", "Strong magnet"],
-    "reviews": ["Holds well!", "Easy to install."],
-    "tags": ["holder", "magnetic", "car"]
-  },
-  {
-    "name": "Fast Charging Cable",
-    "description": "Durable fast-charging cable for all devices.",
-    "category": "Cables",
-    "compatiable": ["iPhone", "Android"],
-    "material": "Nylon braided",
-    "price": 9.99,
+    "price": 5915,
     "daysForReplacement": 7,
     "warranty": true,
-    "yearsForWarranty": 0.5,
-    "images": ["https://example.com/cable1.jpg"],
-    "model": "FC-500",
-    "productCode": "FC500-RED",
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-speakers-1.jpg"
+    ],
+    "model": "BLU-1",
+    "productCode": "POR-BLU-001",
     "color": "Red",
-    "specifications": ["1m length", "Fast charge 3.0"],
-    "reviews": ["Charges quickly!", "Durable quality."],
-    "tags": ["cable", "fast charge"]
+    "specifications": [
+      "Water Resistant",
+      "Bluetooth 5.0",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "wireless",
+      "accessory"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
   },
   {
-    "name": "Phone Case (Shockproof)",
-    "description": "Protective shockproof phone case.",
-    "category": "Cases",
-    "compatiable": ["iPhone 13", "Samsung Galaxy S22"],
-    "material": "TPU",
-    "price": 19.99,
-    "daysForReplacement": 7,
-    "warranty": false,
-    "images": ["https://example.com/case1.jpg"],
-    "model": "PC-900",
-    "productCode": "PC900-BLK",
-    "color": "Black",
-    "specifications": ["Shockproof", "Anti-scratch"],
-    "reviews": ["Very sturdy!", "Looks premium."],
-    "tags": ["case", "shockproof"]
-  },
-  {
-    "name": "Tempered Glass Screen Protector",
-    "description": "Scratch-resistant tempered glass for phones.",
-    "category": "Screen Protectors",
-    "compatiable": ["iPhone 14", "Samsung Galaxy S23"],
-    "material": "Glass",
-    "price": 12.99,
-    "daysForReplacement": 7,
-    "warranty": false,
-    "images": ["https://example.com/glass1.jpg"],
-    "model": "TG-300",
-    "productCode": "TG300-CLR",
-    "color": "Clear",
-    "specifications": ["9H hardness", "Anti-fingerprint"],
-    "reviews": ["Crystal clear!", "Easy to apply."],
-    "tags": ["screen protector", "glass"]
-  },
-  {
-    "name": "Wireless Car Charger",
-    "description": "Fast wireless charger for cars.",
-    "category": "Car Accessories",
-    "compatiable": ["iPhone", "Samsung"],
-    "material": "Plastic",
-    "price": 34.99,
+    "name": "Portronics Bluetooth Speakers Model 2",
+    "description": "High-quality Bluetooth Speakers designed for the modern user.",
+    "subCategory": "Bluetooth Speakers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 6737,
     "daysForReplacement": 7,
     "warranty": true,
-    "yearsForWarranty": 1,
-    "images": ["https://example.com/car_charger.jpg"],
-    "model": "WCC-700",
-    "productCode": "WCC700-BLK",
-    "color": "Black",
-    "specifications": ["Fast charging", "Adjustable stand"],
-    "reviews": ["Works perfectly!", "Charges fast."],
-    "tags": ["wireless", "charger", "car"]
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/bluetooth-speakers-2.jpg"
+    ],
+    "model": "BLU-2",
+    "productCode": "POR-BLU-002",
+    "color": "Blue",
+    "specifications": [
+      "Fast Charging",
+      "Water Resistant",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "tech",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
   },
   {
-    "name": "Portable Power Bank 10000mAh",
-    "description": "High-capacity portable power bank.",
-    "category": "Power Banks",
-    "compatiable": ["All smartphones"],
-    "material": "Plastic",
-    "price": 29.99,
-    "daysForReplacement": 7,
-    "warranty": true,
-    "yearsForWarranty": 1,
-    "images": ["https://example.com/powerbank.jpg"],
-    "model": "PB-10000",
-    "productCode": "PB10000-WHT",
-    "color": "White",
-    "specifications": ["10000mAh", "Dual USB ports"],
-    "reviews": ["Charges multiple times!", "Compact."],
-    "tags": ["power bank", "portable"]
-  },
-  {
-    "name": "Gaming Headset",
-    "description": "Surround sound gaming headset with mic.",
-    "category": "Audio Accessories",
-    "compatiable": ["PC", "Xbox", "PlayStation"],
-    "material": "Plastic",
-    "price": 49.99,
-    "daysForReplacement": 7,
-    "warranty": true,
-    "yearsForWarranty": 1,
-    "images": ["https://example.com/headset.jpg"],
-    "model": "GH-500",
-    "productCode": "GH500-BLK",
-    "color": "Black",
-    "specifications": ["7.1 surround", "Noise-cancel mic"],
-    "reviews": ["Great sound!", "Comfortable fit."],
-    "tags": ["gaming", "headset"]
-  },
-  {
-    "name": "Smartwatch Strap",
-    "description": "Premium leather strap for smartwatches.",
-    "category": "Wearables",
-    "compatiable": ["Apple Watch", "Samsung Watch"],
-    "material": "Leather",
-    "price": 24.99,
-    "daysForReplacement": 7,
-    "warranty": false,
-    "images": ["https://example.com/strap.jpg"],
-    "model": "SWS-800",
-    "productCode": "SWS800-BRN",
-    "color": "Brown",
-    "specifications": ["Leather", "Adjustable size"],
-    "reviews": ["Looks elegant!", "Fits well."],
-    "tags": ["smartwatch", "strap"]
-  },
-  {
-    "name": "USB-C Hub",
-    "description": "Multiport USB-C hub for laptops.",
-    "category": "Adapters",
-    "compatiable": ["MacBook", "Windows Laptops"],
+    "name": "Portronics Bluetooth Speakers Model 3",
+    "description": "High-quality Bluetooth Speakers designed for the modern user.",
+    "subCategory": "Bluetooth Speakers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
     "material": "Aluminum",
-    "price": 39.99,
+    "price": 7107,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/bluetooth-speakers-3.jpg"
+    ],
+    "model": "BLU-3",
+    "productCode": "POR-BLU-003",
+    "color": "Red",
+    "specifications": [
+      "Bluetooth 5.0",
+      "LED Indicator",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "audio",
+      "accessory"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Bluetooth Speakers Model 4",
+    "description": "High-quality Bluetooth Speakers designed for the modern user.",
+    "subCategory": "Bluetooth Speakers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 2573,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-speakers-4.jpg"
+    ],
+    "model": "BLU-4",
+    "productCode": "POR-BLU-004",
+    "color": "White",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Fast Charging",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "tech",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Bluetooth Speakers Model 5",
+    "description": "High-quality Bluetooth Speakers designed for the modern user.",
+    "subCategory": "Bluetooth Speakers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 5909,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-speakers-5.jpg"
+    ],
+    "model": "BLU-5",
+    "productCode": "POR-BLU-005",
+    "color": "Blue",
+    "specifications": [
+      "Fast Charging",
+      "Noise Cancellation",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "portable",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Bluetooth Speakers Model 6",
+    "description": "High-quality Bluetooth Speakers designed for the modern user.",
+    "subCategory": "Bluetooth Speakers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 877,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-speakers-6.jpg"
+    ],
+    "model": "BLU-6",
+    "productCode": "POR-BLU-006",
+    "color": "Grey",
+    "specifications": [
+      "Compact Design",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "audio",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Bluetooth Speakers Model 7",
+    "description": "High-quality Bluetooth Speakers designed for the modern user.",
+    "subCategory": "Bluetooth Speakers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 1600,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-speakers-7.jpg"
+    ],
+    "model": "BLU-7",
+    "productCode": "POR-BLU-007",
+    "color": "Blue",
+    "specifications": [
+      "Noise Cancellation",
+      "Fast Charging",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "accessory",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Bluetooth Speakers Model 8",
+    "description": "High-quality Bluetooth Speakers designed for the modern user.",
+    "subCategory": "Bluetooth Speakers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 2359,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-speakers-8.jpg"
+    ],
+    "model": "BLU-8",
+    "productCode": "POR-BLU-008",
+    "color": "Blue",
+    "specifications": [
+      "Noise Cancellation",
+      "Water Resistant",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "charging",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Sound Bars Model 1",
+    "description": "High-quality Sound Bars designed for the modern user.",
+    "subCategory": "Sound Bars",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 7102,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/sound-bars-1.jpg"
+    ],
+    "model": "SOU-1",
+    "productCode": "POR-SOU-001",
+    "color": "Red",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "tech",
+      "accessory"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Sound Bars Model 2",
+    "description": "High-quality Sound Bars designed for the modern user.",
+    "subCategory": "Sound Bars",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 3257,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/sound-bars-2.jpg"
+    ],
+    "model": "SOU-2",
+    "productCode": "POR-SOU-002",
+    "color": "Red",
+    "specifications": [
+      "Noise Cancellation",
+      "Water Resistant",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "portable",
+      "accessory"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Sound Bars Model 3",
+    "description": "High-quality Sound Bars designed for the modern user.",
+    "subCategory": "Sound Bars",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 5448,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/sound-bars-3.jpg"
+    ],
+    "model": "SOU-3",
+    "productCode": "POR-SOU-003",
+    "color": "Grey",
+    "specifications": [
+      "Fast Charging",
+      "Water Resistant",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "charging",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Sound Bars Model 4",
+    "description": "High-quality Sound Bars designed for the modern user.",
+    "subCategory": "Sound Bars",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 5630,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/sound-bars-4.jpg"
+    ],
+    "model": "SOU-4",
+    "productCode": "POR-SOU-004",
+    "color": "White",
+    "specifications": [
+      "Noise Cancellation",
+      "Water Resistant",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "audio",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Sound Bars Model 5",
+    "description": "High-quality Sound Bars designed for the modern user.",
+    "subCategory": "Sound Bars",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 5479,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/sound-bars-5.jpg"
+    ],
+    "model": "SOU-5",
+    "productCode": "POR-SOU-005",
+    "color": "Grey",
+    "specifications": [
+      "Fast Charging",
+      "LED Indicator",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "accessory",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Sound Bars Model 6",
+    "description": "High-quality Sound Bars designed for the modern user.",
+    "subCategory": "Sound Bars",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 1197,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/sound-bars-6.jpg"
+    ],
+    "model": "SOU-6",
+    "productCode": "POR-SOU-006",
+    "color": "Grey",
+    "specifications": [
+      "Fast Charging",
+      "LED Indicator",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "charging",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Sound Bars Model 7",
+    "description": "High-quality Sound Bars designed for the modern user.",
+    "subCategory": "Sound Bars",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 1828,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/sound-bars-7.jpg"
+    ],
+    "model": "SOU-7",
+    "productCode": "POR-SOU-007",
+    "color": "Red",
+    "specifications": [
+      "Fast Charging",
+      "Bluetooth 5.0",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "audio",
+      "accessory"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Sound Bars Model 8",
+    "description": "High-quality Sound Bars designed for the modern user.",
+    "subCategory": "Sound Bars",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 3775,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/sound-bars-8.jpg"
+    ],
+    "model": "SOU-8",
+    "productCode": "POR-SOU-008",
+    "color": "Red",
+    "specifications": [
+      "Water Resistant",
+      "Compact Design",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "tech",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Headphones Model 1",
+    "description": "High-quality Headphones designed for the modern user.",
+    "subCategory": "Headphones",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 563,
     "daysForReplacement": 7,
     "warranty": true,
     "yearsForWarranty": 1,
-    "images": ["https://example.com/hub.jpg"],
-    "model": "USBC-400",
-    "productCode": "USBC400-GRY",
-    "color": "Gray",
-    "specifications": ["HDMI, USB, SD card"],
-    "reviews": ["Very useful!", "Compact."],
-    "tags": ["usb-c", "hub"]
+    "images": [
+      "https://example.com/images/headphones-1.jpg"
+    ],
+    "model": "HEA-1",
+    "productCode": "POR-HEA-001",
+    "color": "White",
+    "specifications": [
+      "LED Indicator",
+      "Water Resistant",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "audio",
+      "accessory"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
   },
-  
-    {
-      "name": "Wireless Charging Pad",
-      "description": "Slim wireless charging pad for fast charging.",
-      "category": "Chargers",
-      "compatiable": ["iPhone", "Samsung", "Pixel"],
-      "material": "Glass",
-      "price": 29.99,
-      "daysForReplacement": 7,
-      "warranty": true,
-      "yearsForWarranty": 1,
-      "images": ["https://example.com/chargingpad.jpg"],
-      "model": "WCP-450",
-      "productCode": "WCP450-BLK",
-      "color": "Black",
-      "specifications": ["Fast charge 15W", "Slim design"],
-      "reviews": ["Charges fast!", "Stylish look."],
-      "tags": ["wireless", "charger", "pad"]
-    },
-    {
-      "name": "Foldable Phone Stand",
-      "description": "Adjustable and portable phone stand.",
-      "category": "Stands",
-      "compatiable": ["All phones and tablets"],
-      "material": "Aluminum",
-      "price": 18.99,
-      "daysForReplacement": 7,
-      "warranty": false,
-      "images": ["https://example.com/stand.jpg"],
-      "model": "FPS-600",
-      "productCode": "FPS600-SLV",
-      "color": "Silver",
-      "specifications": ["Foldable", "Angle adjustable"],
-      "reviews": ["Very sturdy!", "Great for desk."],
-      "tags": ["stand", "portable"]
-    },
-    {
-      "name": "Laptop Cooling Pad",
-      "description": "Cooling pad with dual fans for laptops.",
-      "category": "Laptop Accessories",
-      "compatiable": ["All laptops up to 17 inch"],
-      "material": "Plastic",
-      "price": 34.99,
-      "daysForReplacement": 7,
-      "warranty": true,
-      "yearsForWarranty": 1,
-      "images": ["https://example.com/coolingpad.jpg"],
-      "model": "LCP-850",
-      "productCode": "LCP850-BLU",
-      "color": "Blue",
-      "specifications": ["Dual fans", "USB powered"],
-      "reviews": ["Keeps cool!", "Silent operation."],
-      "tags": ["cooling", "laptop"]
-    },
-    {
-      "name": "Gaming Mouse Pad XL",
-      "description": "Extra large gaming mouse pad with smooth surface.",
-      "category": "Gaming Accessories",
-      "compatiable": ["All mice"],
-      "material": "Fabric",
-      "price": 22.99,
-      "daysForReplacement": 7,
-      "warranty": false,
-      "images": ["https://example.com/mousepad.jpg"],
-      "model": "GMP-1000",
-      "productCode": "GMP1000-BLK",
-      "color": "Black",
-      "specifications": ["900x400mm", "Non-slip base"],
-      "reviews": ["Perfect size!", "Smooth glide."],
-      "tags": ["gaming", "mouse pad"]
-    },
-    {
-      "name": "Phone Camera Lens Kit",
-      "description": "Wide angle and macro lens kit for smartphones.",
-      "category": "Photography Accessories",
-      "compatiable": ["iPhone", "Samsung", "Pixel"],
-      "material": "Glass",
-      "price": 27.99,
-      "daysForReplacement": 7,
-      "warranty": false,
-      "images": ["https://example.com/lenskit.jpg"],
-      "model": "PCLK-700",
-      "productCode": "PCLK700-BLK",
-      "color": "Black",
-      "specifications": ["Wide angle", "Macro"],
-      "reviews": ["Great quality photos!", "Easy to attach."],
-      "tags": ["lens", "photography"]
-    },
-    {
-      "name": "Noise Cancelling Headphones",
-      "description": "Over-ear headphones with active noise canceling.",
-      "category": "Audio Accessories",
-      "compatiable": ["All devices with Bluetooth"],
-      "material": "Plastic",
-      "price": 99.99,
-      "daysForReplacement": 7,
-      "warranty": true,
-      "yearsForWarranty": 2,
-      "images": ["https://example.com/headphones.jpg"],
-      "model": "NCH-900",
-      "productCode": "NCH900-GRY",
-      "color": "Gray",
-      "specifications": ["Bluetooth 5.0", "ANC"],
-      "reviews": ["Excellent sound!", "Comfortable."],
-      "tags": ["headphones", "noise cancelling"]
-    },
-    {
-      "name": "Smartphone Tripod Stand",
-      "description": "Lightweight tripod stand with Bluetooth remote.",
-      "category": "Photography Accessories",
-      "compatiable": ["All smartphones"],
-      "material": "Aluminum",
-      "price": 31.99,
-      "daysForReplacement": 7,
-      "warranty": true,
-      "yearsForWarranty": 1,
-      "images": ["https://example.com/tripod.jpg"],
-      "model": "STS-500",
-      "productCode": "STS500-BLK",
-      "color": "Black",
-      "specifications": ["Bluetooth remote", "Adjustable height"],
-      "reviews": ["Great for selfies!", "Light and sturdy."],
-      "tags": ["tripod", "photography"]
-    },
-    {
-      "name": "Anti-theft Laptop Backpack",
-      "description": "Waterproof anti-theft backpack with USB port.",
-      "category": "Bags",
-      "compatiable": ["All laptops up to 15.6 inch"],
-      "material": "Polyester",
-      "price": 49.99,
-      "daysForReplacement": 7,
-      "warranty": true,
-      "yearsForWarranty": 1,
-      "images": ["https://example.com/backpack.jpg"],
-      "model": "ALB-300",
-      "productCode": "ALB300-GRY",
-      "color": "Gray",
-      "specifications": ["USB port", "Waterproof"],
-      "reviews": ["Very secure!", "Spacious."],
-      "tags": ["backpack", "anti-theft"]
-    },
-    {
-      "name": "USB-C to HDMI Adapter",
-      "description": "Connects USB-C devices to HDMI displays.",
-      "category": "Adapters",
-      "compatiable": ["MacBook", "Samsung Dex"],
-      "material": "Aluminum",
-      "price": 19.99,
-      "daysForReplacement": 7,
-      "warranty": true,
-      "yearsForWarranty": 1,
-      "images": ["https://example.com/adapter.jpg"],
-      "model": "USBC-HDMI-200",
-      "productCode": "USBC200-GRY",
-      "color": "Gray",
-      "specifications": ["4K HDMI", "Plug & play"],
-      "reviews": ["Works flawlessly!", "Good quality."],
-      "tags": ["adapter", "hdmi"]
-    },
-    {
-      "name": "Bluetooth Keyboard",
-      "description": "Slim Bluetooth keyboard for multiple devices.",
-      "category": "Keyboards",
-      "compatiable": ["Windows", "Mac", "iOS", "Android"],
-      "material": "Plastic",
-      "price": 39.99,
-      "daysForReplacement": 7,
-      "warranty": true,
-      "yearsForWarranty": 1,
-      "images": ["https://example.com/keyboard.jpg"],
-      "model": "BTK-400",
-      "productCode": "BTK400-WHT",
-      "color": "White",
-      "specifications": ["Bluetooth 5.0", "Rechargeable battery"],
-      "reviews": ["Great for tablets!", "Compact design."],
-      "tags": ["keyboard", "bluetooth"]
-    }  
+  {
+    "name": "Portronics Headphones Model 2",
+    "description": "High-quality Headphones designed for the modern user.",
+    "subCategory": "Headphones",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 2256,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/headphones-2.jpg"
+    ],
+    "model": "HEA-2",
+    "productCode": "POR-HEA-002",
+    "color": "White",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "accessory",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Headphones Model 3",
+    "description": "High-quality Headphones designed for the modern user.",
+    "subCategory": "Headphones",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 5043,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/headphones-3.jpg"
+    ],
+    "model": "HEA-3",
+    "productCode": "POR-HEA-003",
+    "color": "Blue",
+    "specifications": [
+      "Compact Design",
+      "Fast Charging",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "accessory",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Headphones Model 4",
+    "description": "High-quality Headphones designed for the modern user.",
+    "subCategory": "Headphones",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 980,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/headphones-4.jpg"
+    ],
+    "model": "HEA-4",
+    "productCode": "POR-HEA-004",
+    "color": "Grey",
+    "specifications": [
+      "Compact Design",
+      "Fast Charging",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "accessory",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Headphones Model 5",
+    "description": "High-quality Headphones designed for the modern user.",
+    "subCategory": "Headphones",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 2047,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/headphones-5.jpg"
+    ],
+    "model": "HEA-5",
+    "productCode": "POR-HEA-005",
+    "color": "Grey",
+    "specifications": [
+      "Water Resistant",
+      "Compact Design",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "accessory",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Headphones Model 6",
+    "description": "High-quality Headphones designed for the modern user.",
+    "subCategory": "Headphones",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 7818,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/headphones-6.jpg"
+    ],
+    "model": "HEA-6",
+    "productCode": "POR-HEA-006",
+    "color": "Red",
+    "specifications": [
+      "Noise Cancellation",
+      "Water Resistant",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "audio",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Headphones Model 7",
+    "description": "High-quality Headphones designed for the modern user.",
+    "subCategory": "Headphones",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4698,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/headphones-7.jpg"
+    ],
+    "model": "HEA-7",
+    "productCode": "POR-HEA-007",
+    "color": "Grey",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Compact Design",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "tech",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Headphones Model 8",
+    "description": "High-quality Headphones designed for the modern user.",
+    "subCategory": "Headphones",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4671,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/headphones-8.jpg"
+    ],
+    "model": "HEA-8",
+    "productCode": "POR-HEA-008",
+    "color": "White",
+    "specifications": [
+      "Compact Design",
+      "LED Indicator",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "charging",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Earbuds Model 1",
+    "description": "High-quality Earbuds designed for the modern user.",
+    "subCategory": "Earbuds",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 4132,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/earbuds-1.jpg"
+    ],
+    "model": "EAR-1",
+    "productCode": "POR-EAR-001",
+    "color": "Blue",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "accessory",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Earbuds Model 2",
+    "description": "High-quality Earbuds designed for the modern user.",
+    "subCategory": "Earbuds",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 3578,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/earbuds-2.jpg"
+    ],
+    "model": "EAR-2",
+    "productCode": "POR-EAR-002",
+    "color": "Black",
+    "specifications": [
+      "Fast Charging",
+      "Compact Design",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "portable",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Earbuds Model 3",
+    "description": "High-quality Earbuds designed for the modern user.",
+    "subCategory": "Earbuds",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 5674,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/earbuds-3.jpg"
+    ],
+    "model": "EAR-3",
+    "productCode": "POR-EAR-003",
+    "color": "Blue",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Compact Design",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "audio",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Earbuds Model 4",
+    "description": "High-quality Earbuds designed for the modern user.",
+    "subCategory": "Earbuds",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 6032,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/earbuds-4.jpg"
+    ],
+    "model": "EAR-4",
+    "productCode": "POR-EAR-004",
+    "color": "Grey",
+    "specifications": [
+      "Compact Design",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "accessory",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Earbuds Model 5",
+    "description": "High-quality Earbuds designed for the modern user.",
+    "subCategory": "Earbuds",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 6116,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/earbuds-5.jpg"
+    ],
+    "model": "EAR-5",
+    "productCode": "POR-EAR-005",
+    "color": "Blue",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Fast Charging",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "charging",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Earbuds Model 6",
+    "description": "High-quality Earbuds designed for the modern user.",
+    "subCategory": "Earbuds",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 1953,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/earbuds-6.jpg"
+    ],
+    "model": "EAR-6",
+    "productCode": "POR-EAR-006",
+    "color": "Grey",
+    "specifications": [
+      "Compact Design",
+      "Fast Charging",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "portable",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Earbuds Model 7",
+    "description": "High-quality Earbuds designed for the modern user.",
+    "subCategory": "Earbuds",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 3732,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/earbuds-7.jpg"
+    ],
+    "model": "EAR-7",
+    "productCode": "POR-EAR-007",
+    "color": "Blue",
+    "specifications": [
+      "Fast Charging",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "audio",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Earbuds Model 8",
+    "description": "High-quality Earbuds designed for the modern user.",
+    "subCategory": "Earbuds",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 7036,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/earbuds-8.jpg"
+    ],
+    "model": "EAR-8",
+    "productCode": "POR-EAR-008",
+    "color": "Grey",
+    "specifications": [
+      "Compact Design",
+      "Noise Cancellation",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "audio",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b886f"
+  },
+  {
+    "name": "Portronics Power Banks Model 1",
+    "description": "High-quality Power Banks designed for the modern user.",
+    "subCategory": "Power Banks",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 3329,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/power-banks-1.jpg"
+    ],
+    "model": "POW-1",
+    "productCode": "POR-POW-001",
+    "color": "White",
+    "specifications": [
+      "Noise Cancellation",
+      "Compact Design",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "accessory",
+      "tech"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Power Banks Model 2",
+    "description": "High-quality Power Banks designed for the modern user.",
+    "subCategory": "Power Banks",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4754,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/power-banks-2.jpg"
+    ],
+    "model": "POW-2",
+    "productCode": "POR-POW-002",
+    "color": "Black",
+    "specifications": [
+      "Fast Charging",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "accessory",
+      "portable"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Power Banks Model 3",
+    "description": "High-quality Power Banks designed for the modern user.",
+    "subCategory": "Power Banks",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 7050,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/power-banks-3.jpg"
+    ],
+    "model": "POW-3",
+    "productCode": "POR-POW-003",
+    "color": "Black",
+    "specifications": [
+      "LED Indicator",
+      "Noise Cancellation",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "audio",
+      "tech"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Power Banks Model 4",
+    "description": "High-quality Power Banks designed for the modern user.",
+    "subCategory": "Power Banks",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 2517,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/power-banks-4.jpg"
+    ],
+    "model": "POW-4",
+    "productCode": "POR-POW-004",
+    "color": "Grey",
+    "specifications": [
+      "Water Resistant",
+      "Compact Design",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "audio",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Power Banks Model 5",
+    "description": "High-quality Power Banks designed for the modern user.",
+    "subCategory": "Power Banks",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 1579,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/power-banks-5.jpg"
+    ],
+    "model": "POW-5",
+    "productCode": "POR-POW-005",
+    "color": "Blue",
+    "specifications": [
+      "Fast Charging",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "wireless",
+      "charging"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Power Banks Model 6",
+    "description": "High-quality Power Banks designed for the modern user.",
+    "subCategory": "Power Banks",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 3531,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/power-banks-6.jpg"
+    ],
+    "model": "POW-6",
+    "productCode": "POR-POW-006",
+    "color": "Red",
+    "specifications": [
+      "Water Resistant",
+      "Bluetooth 5.0",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "accessory",
+      "tech"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Power Banks Model 7",
+    "description": "High-quality Power Banks designed for the modern user.",
+    "subCategory": "Power Banks",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 4276,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/power-banks-7.jpg"
+    ],
+    "model": "POW-7",
+    "productCode": "POR-POW-007",
+    "color": "Blue",
+    "specifications": [
+      "Water Resistant",
+      "Bluetooth 5.0",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "charging",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Power Banks Model 8",
+    "description": "High-quality Power Banks designed for the modern user.",
+    "subCategory": "Power Banks",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 4477,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/power-banks-8.jpg"
+    ],
+    "model": "POW-8",
+    "productCode": "POR-POW-008",
+    "color": "Black",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "wireless",
+      "tech"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Chargers Model 1",
+    "description": "High-quality Chargers designed for the modern user.",
+    "subCategory": "Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4161,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/chargers-1.jpg"
+    ],
+    "model": "CHA-1",
+    "productCode": "POR-CHA-001",
+    "color": "White",
+    "specifications": [
+      "Compact Design",
+      "Fast Charging",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "audio",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Chargers Model 2",
+    "description": "High-quality Chargers designed for the modern user.",
+    "subCategory": "Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 5323,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/chargers-2.jpg"
+    ],
+    "model": "CHA-2",
+    "productCode": "POR-CHA-002",
+    "color": "White",
+    "specifications": [
+      "Noise Cancellation",
+      "Compact Design",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "charging",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Chargers Model 3",
+    "description": "High-quality Chargers designed for the modern user.",
+    "subCategory": "Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 7280,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/chargers-3.jpg"
+    ],
+    "model": "CHA-3",
+    "productCode": "POR-CHA-003",
+    "color": "Red",
+    "specifications": [
+      "Compact Design",
+      "Water Resistant",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "portable",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Chargers Model 4",
+    "description": "High-quality Chargers designed for the modern user.",
+    "subCategory": "Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 2696,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/chargers-4.jpg"
+    ],
+    "model": "CHA-4",
+    "productCode": "POR-CHA-004",
+    "color": "Grey",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "tech",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Chargers Model 5",
+    "description": "High-quality Chargers designed for the modern user.",
+    "subCategory": "Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 4874,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/chargers-5.jpg"
+    ],
+    "model": "CHA-5",
+    "productCode": "POR-CHA-005",
+    "color": "Blue",
+    "specifications": [
+      "Bluetooth 5.0",
+      "LED Indicator",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "charging",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Chargers Model 6",
+    "description": "High-quality Chargers designed for the modern user.",
+    "subCategory": "Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 1753,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/chargers-6.jpg"
+    ],
+    "model": "CHA-6",
+    "productCode": "POR-CHA-006",
+    "color": "White",
+    "specifications": [
+      "Fast Charging",
+      "Noise Cancellation",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "accessory",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Chargers Model 7",
+    "description": "High-quality Chargers designed for the modern user.",
+    "subCategory": "Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 1735,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/chargers-7.jpg"
+    ],
+    "model": "CHA-7",
+    "productCode": "POR-CHA-007",
+    "color": "Grey",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Fast Charging",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "audio",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Chargers Model 8",
+    "description": "High-quality Chargers designed for the modern user.",
+    "subCategory": "Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 722,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/chargers-8.jpg"
+    ],
+    "model": "CHA-8",
+    "productCode": "POR-CHA-008",
+    "color": "Black",
+    "specifications": [
+      "Water Resistant",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "portable",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Cables Model 1",
+    "description": "High-quality Cables designed for the modern user.",
+    "subCategory": "Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 5435,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/cables-1.jpg"
+    ],
+    "model": "CAB-1",
+    "productCode": "POR-CAB-001",
+    "color": "Red",
+    "specifications": [
+      "Water Resistant",
+      "Bluetooth 5.0",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "accessory",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Cables Model 2",
+    "description": "High-quality Cables designed for the modern user.",
+    "subCategory": "Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 2873,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/cables-2.jpg"
+    ],
+    "model": "CAB-2",
+    "productCode": "POR-CAB-002",
+    "color": "Grey",
+    "specifications": [
+      "Compact Design",
+      "Fast Charging",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "tech",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Cables Model 3",
+    "description": "High-quality Cables designed for the modern user.",
+    "subCategory": "Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 7016,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/cables-3.jpg"
+    ],
+    "model": "CAB-3",
+    "productCode": "POR-CAB-003",
+    "color": "Grey",
+    "specifications": [
+      "Noise Cancellation",
+      "Fast Charging",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "charging",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Cables Model 4",
+    "description": "High-quality Cables designed for the modern user.",
+    "subCategory": "Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 2965,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/cables-4.jpg"
+    ],
+    "model": "CAB-4",
+    "productCode": "POR-CAB-004",
+    "color": "White",
+    "specifications": [
+      "Water Resistant",
+      "Compact Design",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "charging",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Cables Model 5",
+    "description": "High-quality Cables designed for the modern user.",
+    "subCategory": "Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 5525,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/cables-5.jpg"
+    ],
+    "model": "CAB-5",
+    "productCode": "POR-CAB-005",
+    "color": "Red",
+    "specifications": [
+      "Fast Charging",
+      "LED Indicator",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "audio",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Cables Model 6",
+    "description": "High-quality Cables designed for the modern user.",
+    "subCategory": "Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 3098,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/cables-6.jpg"
+    ],
+    "model": "CAB-6",
+    "productCode": "POR-CAB-006",
+    "color": "Red",
+    "specifications": [
+      "LED Indicator",
+      "Water Resistant",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "wireless",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Cables Model 7",
+    "description": "High-quality Cables designed for the modern user.",
+    "subCategory": "Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 1739,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/cables-7.jpg"
+    ],
+    "model": "CAB-7",
+    "productCode": "POR-CAB-007",
+    "color": "Grey",
+    "specifications": [
+      "Noise Cancellation",
+      "Fast Charging",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "tech",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Cables Model 8",
+    "description": "High-quality Cables designed for the modern user.",
+    "subCategory": "Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 6376,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/cables-8.jpg"
+    ],
+    "model": "CAB-8",
+    "productCode": "POR-CAB-008",
+    "color": "Grey",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Fast Charging",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "audio",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Car Chargers Model 1",
+    "description": "High-quality Car Chargers designed for the modern user.",
+    "subCategory": "Car Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 5865,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/car-chargers-1.jpg"
+    ],
+    "model": "CAR-1",
+    "productCode": "POR-CAR-001",
+    "color": "Grey",
+    "specifications": [
+      "LED Indicator",
+      "Water Resistant",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "wireless",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Car Chargers Model 2",
+    "description": "High-quality Car Chargers designed for the modern user.",
+    "subCategory": "Car Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 3849,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/car-chargers-2.jpg"
+    ],
+    "model": "CAR-2",
+    "productCode": "POR-CAR-002",
+    "color": "Red",
+    "specifications": [
+      "Water Resistant",
+      "Fast Charging",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "accessory",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Car Chargers Model 3",
+    "description": "High-quality Car Chargers designed for the modern user.",
+    "subCategory": "Car Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 824,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/car-chargers-3.jpg"
+    ],
+    "model": "CAR-3",
+    "productCode": "POR-CAR-003",
+    "color": "Black",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "charging",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Car Chargers Model 4",
+    "description": "High-quality Car Chargers designed for the modern user.",
+    "subCategory": "Car Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 4519,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/car-chargers-4.jpg"
+    ],
+    "model": "CAR-4",
+    "productCode": "POR-CAR-004",
+    "color": "Grey",
+    "specifications": [
+      "Fast Charging",
+      "Noise Cancellation",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "accessory",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Car Chargers Model 5",
+    "description": "High-quality Car Chargers designed for the modern user.",
+    "subCategory": "Car Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 7865,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/car-chargers-5.jpg"
+    ],
+    "model": "CAR-5",
+    "productCode": "POR-CAR-005",
+    "color": "Black",
+    "specifications": [
+      "Fast Charging",
+      "Bluetooth 5.0",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "accessory",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Car Chargers Model 6",
+    "description": "High-quality Car Chargers designed for the modern user.",
+    "subCategory": "Car Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 5053,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/car-chargers-6.jpg"
+    ],
+    "model": "CAR-6",
+    "productCode": "POR-CAR-006",
+    "color": "Blue",
+    "specifications": [
+      "Compact Design",
+      "Noise Cancellation",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "wireless",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Car Chargers Model 7",
+    "description": "High-quality Car Chargers designed for the modern user.",
+    "subCategory": "Car Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4607,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/car-chargers-7.jpg"
+    ],
+    "model": "CAR-7",
+    "productCode": "POR-CAR-007",
+    "color": "White",
+    "specifications": [
+      "Bluetooth 5.0",
+      "LED Indicator",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "charging",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Car Chargers Model 8",
+    "description": "High-quality Car Chargers designed for the modern user.",
+    "subCategory": "Car Chargers",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 6744,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/car-chargers-8.jpg"
+    ],
+    "model": "CAR-8",
+    "productCode": "POR-CAR-008",
+    "color": "Black",
+    "specifications": [
+      "Compact Design",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "accessory",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Smartwatches Model 1",
+    "description": "High-quality Smartwatches designed for the modern user.",
+    "subCategory": "Smartwatches",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 7343,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/smartwatches-1.jpg"
+    ],
+    "model": "SMA-1",
+    "productCode": "POR-SMA-001",
+    "color": "Grey",
+    "specifications": [
+      "Water Resistant",
+      "Compact Design",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "accessory",
+      "charging"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Smartwatches Model 2",
+    "description": "High-quality Smartwatches designed for the modern user.",
+    "subCategory": "Smartwatches",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 6187,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/smartwatches-2.jpg"
+    ],
+    "model": "SMA-2",
+    "productCode": "POR-SMA-002",
+    "color": "Black",
+    "specifications": [
+      "Noise Cancellation",
+      "Compact Design",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "charging",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Smartwatches Model 3",
+    "description": "High-quality Smartwatches designed for the modern user.",
+    "subCategory": "Smartwatches",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 2837,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/smartwatches-3.jpg"
+    ],
+    "model": "SMA-3",
+    "productCode": "POR-SMA-003",
+    "color": "Grey",
+    "specifications": [
+      "LED Indicator",
+      "Fast Charging",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "portable",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Smartwatches Model 4",
+    "description": "High-quality Smartwatches designed for the modern user.",
+    "subCategory": "Smartwatches",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 758,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/smartwatches-4.jpg"
+    ],
+    "model": "SMA-4",
+    "productCode": "POR-SMA-004",
+    "color": "Grey",
+    "specifications": [
+      "Fast Charging",
+      "Noise Cancellation",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "accessory",
+      "charging"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Smartwatches Model 5",
+    "description": "High-quality Smartwatches designed for the modern user.",
+    "subCategory": "Smartwatches",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 2710,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/smartwatches-5.jpg"
+    ],
+    "model": "SMA-5",
+    "productCode": "POR-SMA-005",
+    "color": "Black",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Fast Charging",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "wireless",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Smartwatches Model 6",
+    "description": "High-quality Smartwatches designed for the modern user.",
+    "subCategory": "Smartwatches",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 7955,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/smartwatches-6.jpg"
+    ],
+    "model": "SMA-6",
+    "productCode": "POR-SMA-006",
+    "color": "White",
+    "specifications": [
+      "LED Indicator",
+      "Fast Charging",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "tech",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Smartwatches Model 7",
+    "description": "High-quality Smartwatches designed for the modern user.",
+    "subCategory": "Smartwatches",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4545,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/smartwatches-7.jpg"
+    ],
+    "model": "SMA-7",
+    "productCode": "POR-SMA-007",
+    "color": "Grey",
+    "specifications": [
+      "Bluetooth 5.0",
+      "LED Indicator",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "tech",
+      "portable"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics Smartwatches Model 8",
+    "description": "High-quality Smartwatches designed for the modern user.",
+    "subCategory": "Smartwatches",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 5936,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/smartwatches-8.jpg"
+    ],
+    "model": "SMA-8",
+    "productCode": "POR-SMA-008",
+    "color": "Grey",
+    "specifications": [
+      "Fast Charging",
+      "Bluetooth 5.0",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "audio",
+      "portable"
+    ],
+    "category": "67d11c3ae5bee6f246872555"
+  },
+  {
+    "name": "Portronics USB Hubs Model 1",
+    "description": "High-quality USB Hubs designed for the modern user.",
+    "subCategory": "USB Hubs",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 2253,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/usb-hubs-1.jpg"
+    ],
+    "model": "USB-1",
+    "productCode": "POR-USB-001",
+    "color": "White",
+    "specifications": [
+      "Water Resistant",
+      "Fast Charging",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "portable",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b8873"
+  },
+  {
+    "name": "Portronics USB Hubs Model 2",
+    "description": "High-quality USB Hubs designed for the modern user.",
+    "subCategory": "USB Hubs",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 3688,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/usb-hubs-2.jpg"
+    ],
+    "model": "USB-2",
+    "productCode": "POR-USB-002",
+    "color": "Grey",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Fast Charging",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "portable",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b8873"
+  },
+  {
+    "name": "Portronics USB Hubs Model 3",
+    "description": "High-quality USB Hubs designed for the modern user.",
+    "subCategory": "USB Hubs",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4266,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/usb-hubs-3.jpg"
+    ],
+    "model": "USB-3",
+    "productCode": "POR-USB-003",
+    "color": "Red",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "portable",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b8873"
+  },
+  {
+    "name": "Portronics USB Hubs Model 4",
+    "description": "High-quality USB Hubs designed for the modern user.",
+    "subCategory": "USB Hubs",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 6662,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/usb-hubs-4.jpg"
+    ],
+    "model": "USB-4",
+    "productCode": "POR-USB-004",
+    "color": "Grey",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "charging",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8873"
+  },
+  {
+    "name": "Portronics USB Hubs Model 5",
+    "description": "High-quality USB Hubs designed for the modern user.",
+    "subCategory": "USB Hubs",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 5313,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/usb-hubs-5.jpg"
+    ],
+    "model": "USB-5",
+    "productCode": "POR-USB-005",
+    "color": "Red",
+    "specifications": [
+      "Compact Design",
+      "LED Indicator",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "accessory",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8873"
+  },
+  {
+    "name": "Portronics USB Hubs Model 6",
+    "description": "High-quality USB Hubs designed for the modern user.",
+    "subCategory": "USB Hubs",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 3171,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/usb-hubs-6.jpg"
+    ],
+    "model": "USB-6",
+    "productCode": "POR-USB-006",
+    "color": "Red",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "wireless",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b8873"
+  },
+  {
+    "name": "Portronics USB Hubs Model 7",
+    "description": "High-quality USB Hubs designed for the modern user.",
+    "subCategory": "USB Hubs",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 7786,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/usb-hubs-7.jpg"
+    ],
+    "model": "USB-7",
+    "productCode": "POR-USB-007",
+    "color": "Red",
+    "specifications": [
+      "Compact Design",
+      "Fast Charging",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "accessory",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b8873"
+  },
+  {
+    "name": "Portronics USB Hubs Model 8",
+    "description": "High-quality USB Hubs designed for the modern user.",
+    "subCategory": "USB Hubs",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 7517,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/usb-hubs-8.jpg"
+    ],
+    "model": "USB-8",
+    "productCode": "POR-USB-008",
+    "color": "Blue",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "portable",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b8873"
+  },
+  {
+    "name": "Portronics Keyboards Model 1",
+    "description": "High-quality Keyboards designed for the modern user.",
+    "subCategory": "Keyboards",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 1236,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/keyboards-1.jpg"
+    ],
+    "model": "KEY-1",
+    "productCode": "POR-KEY-001",
+    "color": "Black",
+    "specifications": [
+      "Compact Design",
+      "Noise Cancellation",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "wireless",
+      "charging"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Keyboards Model 2",
+    "description": "High-quality Keyboards designed for the modern user.",
+    "subCategory": "Keyboards",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 3225,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/keyboards-2.jpg"
+    ],
+    "model": "KEY-2",
+    "productCode": "POR-KEY-002",
+    "color": "Red",
+    "specifications": [
+      "Noise Cancellation",
+      "Water Resistant",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "wireless",
+      "portable"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Keyboards Model 3",
+    "description": "High-quality Keyboards designed for the modern user.",
+    "subCategory": "Keyboards",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 4693,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/keyboards-3.jpg"
+    ],
+    "model": "KEY-3",
+    "productCode": "POR-KEY-003",
+    "color": "Grey",
+    "specifications": [
+      "Noise Cancellation",
+      "Compact Design",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "tech",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Keyboards Model 4",
+    "description": "High-quality Keyboards designed for the modern user.",
+    "subCategory": "Keyboards",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 688,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/keyboards-4.jpg"
+    ],
+    "model": "KEY-4",
+    "productCode": "POR-KEY-004",
+    "color": "Red",
+    "specifications": [
+      "Compact Design",
+      "LED Indicator",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "charging",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Keyboards Model 5",
+    "description": "High-quality Keyboards designed for the modern user.",
+    "subCategory": "Keyboards",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 1509,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/keyboards-5.jpg"
+    ],
+    "model": "KEY-5",
+    "productCode": "POR-KEY-005",
+    "color": "White",
+    "specifications": [
+      "Water Resistant",
+      "LED Indicator",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "charging",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Keyboards Model 6",
+    "description": "High-quality Keyboards designed for the modern user.",
+    "subCategory": "Keyboards",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 2842,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/keyboards-6.jpg"
+    ],
+    "model": "KEY-6",
+    "productCode": "POR-KEY-006",
+    "color": "Blue",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "tech",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Keyboards Model 7",
+    "description": "High-quality Keyboards designed for the modern user.",
+    "subCategory": "Keyboards",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 2604,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/keyboards-7.jpg"
+    ],
+    "model": "KEY-7",
+    "productCode": "POR-KEY-007",
+    "color": "White",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "charging",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Keyboards Model 8",
+    "description": "High-quality Keyboards designed for the modern user.",
+    "subCategory": "Keyboards",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 2338,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/keyboards-8.jpg"
+    ],
+    "model": "KEY-8",
+    "productCode": "POR-KEY-008",
+    "color": "White",
+    "specifications": [
+      "Fast Charging",
+      "Water Resistant",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "portable",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Mice Model 1",
+    "description": "High-quality Mice designed for the modern user.",
+    "subCategory": "Mice",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 6520,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/mice-1.jpg"
+    ],
+    "model": "MIC-1",
+    "productCode": "POR-MIC-001",
+    "color": "Blue",
+    "specifications": [
+      "Water Resistant",
+      "Compact Design",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "accessory",
+      "tech"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Mice Model 2",
+    "description": "High-quality Mice designed for the modern user.",
+    "subCategory": "Mice",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 7634,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/mice-2.jpg"
+    ],
+    "model": "MIC-2",
+    "productCode": "POR-MIC-002",
+    "color": "White",
+    "specifications": [
+      "Water Resistant",
+      "Bluetooth 5.0",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "portable",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Mice Model 3",
+    "description": "High-quality Mice designed for the modern user.",
+    "subCategory": "Mice",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 3507,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/mice-3.jpg"
+    ],
+    "model": "MIC-3",
+    "productCode": "POR-MIC-003",
+    "color": "Black",
+    "specifications": [
+      "Compact Design",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "portable",
+      "tech"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Mice Model 4",
+    "description": "High-quality Mice designed for the modern user.",
+    "subCategory": "Mice",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 7136,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/mice-4.jpg"
+    ],
+    "model": "MIC-4",
+    "productCode": "POR-MIC-004",
+    "color": "White",
+    "specifications": [
+      "LED Indicator",
+      "Compact Design",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "tech",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Mice Model 5",
+    "description": "High-quality Mice designed for the modern user.",
+    "subCategory": "Mice",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 3522,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/mice-5.jpg"
+    ],
+    "model": "MIC-5",
+    "productCode": "POR-MIC-005",
+    "color": "Grey",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "tech",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Mice Model 6",
+    "description": "High-quality Mice designed for the modern user.",
+    "subCategory": "Mice",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 5453,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/mice-6.jpg"
+    ],
+    "model": "MIC-6",
+    "productCode": "POR-MIC-006",
+    "color": "Red",
+    "specifications": [
+      "Fast Charging",
+      "Water Resistant",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "audio",
+      "portable"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Mice Model 7",
+    "description": "High-quality Mice designed for the modern user.",
+    "subCategory": "Mice",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 2051,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/mice-7.jpg"
+    ],
+    "model": "MIC-7",
+    "productCode": "POR-MIC-007",
+    "color": "White",
+    "specifications": [
+      "Fast Charging",
+      "Compact Design",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "tech",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Mice Model 8",
+    "description": "High-quality Mice designed for the modern user.",
+    "subCategory": "Mice",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 7504,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/mice-8.jpg"
+    ],
+    "model": "MIC-8",
+    "productCode": "POR-MIC-008",
+    "color": "Grey",
+    "specifications": [
+      "LED Indicator",
+      "Noise Cancellation",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "wireless",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Laptop Stands Model 1",
+    "description": "High-quality Laptop Stands designed for the modern user.",
+    "subCategory": "Laptop Stands",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 1561,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/laptop-stands-1.jpg"
+    ],
+    "model": "LAP-1",
+    "productCode": "POR-LAP-001",
+    "color": "White",
+    "specifications": [
+      "Fast Charging",
+      "Water Resistant",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "audio",
+      "charging"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Laptop Stands Model 2",
+    "description": "High-quality Laptop Stands designed for the modern user.",
+    "subCategory": "Laptop Stands",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 886,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/laptop-stands-2.jpg"
+    ],
+    "model": "LAP-2",
+    "productCode": "POR-LAP-002",
+    "color": "Grey",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Fast Charging",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "tech",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Laptop Stands Model 3",
+    "description": "High-quality Laptop Stands designed for the modern user.",
+    "subCategory": "Laptop Stands",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 4864,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/laptop-stands-3.jpg"
+    ],
+    "model": "LAP-3",
+    "productCode": "POR-LAP-003",
+    "color": "Grey",
+    "specifications": [
+      "Water Resistant",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "accessory",
+      "portable"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Laptop Stands Model 4",
+    "description": "High-quality Laptop Stands designed for the modern user.",
+    "subCategory": "Laptop Stands",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 7120,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/laptop-stands-4.jpg"
+    ],
+    "model": "LAP-4",
+    "productCode": "POR-LAP-004",
+    "color": "Black",
+    "specifications": [
+      "Water Resistant",
+      "Compact Design",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "wireless",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Laptop Stands Model 5",
+    "description": "High-quality Laptop Stands designed for the modern user.",
+    "subCategory": "Laptop Stands",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 2432,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/laptop-stands-5.jpg"
+    ],
+    "model": "LAP-5",
+    "productCode": "POR-LAP-005",
+    "color": "Red",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "tech",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Laptop Stands Model 6",
+    "description": "High-quality Laptop Stands designed for the modern user.",
+    "subCategory": "Laptop Stands",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 7228,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/laptop-stands-6.jpg"
+    ],
+    "model": "LAP-6",
+    "productCode": "POR-LAP-006",
+    "color": "Grey",
+    "specifications": [
+      "Fast Charging",
+      "Water Resistant",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "tech",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Laptop Stands Model 7",
+    "description": "High-quality Laptop Stands designed for the modern user.",
+    "subCategory": "Laptop Stands",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 7209,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/laptop-stands-7.jpg"
+    ],
+    "model": "LAP-7",
+    "productCode": "POR-LAP-007",
+    "color": "White",
+    "specifications": [
+      "Fast Charging",
+      "LED Indicator",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "tech",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Laptop Stands Model 8",
+    "description": "High-quality Laptop Stands designed for the modern user.",
+    "subCategory": "Laptop Stands",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 2103,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/laptop-stands-8.jpg"
+    ],
+    "model": "LAP-8",
+    "productCode": "POR-LAP-008",
+    "color": "Blue",
+    "specifications": [
+      "Compact Design",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "portable",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872556"
+  },
+  {
+    "name": "Portronics Mobile Holders Model 1",
+    "description": "High-quality Mobile Holders designed for the modern user.",
+    "subCategory": "Mobile Holders",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 4345,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/mobile-holders-1.jpg"
+    ],
+    "model": "MOB-1",
+    "productCode": "POR-MOB-001",
+    "color": "Blue",
+    "specifications": [
+      "Compact Design",
+      "Bluetooth 5.0",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "charging",
+      "portable"
+    ],
+    "category": "67d11c3ae5bee6f246872553"
+  },
+  {
+    "name": "Portronics Mobile Holders Model 2",
+    "description": "High-quality Mobile Holders designed for the modern user.",
+    "subCategory": "Mobile Holders",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 3911,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/mobile-holders-2.jpg"
+    ],
+    "model": "MOB-2",
+    "productCode": "POR-MOB-002",
+    "color": "Red",
+    "specifications": [
+      "Water Resistant",
+      "Noise Cancellation",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "portable",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872553"
+  },
+  {
+    "name": "Portronics Mobile Holders Model 3",
+    "description": "High-quality Mobile Holders designed for the modern user.",
+    "subCategory": "Mobile Holders",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4482,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/mobile-holders-3.jpg"
+    ],
+    "model": "MOB-3",
+    "productCode": "POR-MOB-003",
+    "color": "Grey",
+    "specifications": [
+      "Fast Charging",
+      "Water Resistant",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "portable",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872553"
+  },
+  {
+    "name": "Portronics Mobile Holders Model 4",
+    "description": "High-quality Mobile Holders designed for the modern user.",
+    "subCategory": "Mobile Holders",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 5069,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/mobile-holders-4.jpg"
+    ],
+    "model": "MOB-4",
+    "productCode": "POR-MOB-004",
+    "color": "Blue",
+    "specifications": [
+      "Fast Charging",
+      "Water Resistant",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "wireless",
+      "tech"
+    ],
+    "category": "67d11c3ae5bee6f246872553"
+  },
+  {
+    "name": "Portronics Mobile Holders Model 5",
+    "description": "High-quality Mobile Holders designed for the modern user.",
+    "subCategory": "Mobile Holders",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 1087,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/mobile-holders-5.jpg"
+    ],
+    "model": "MOB-5",
+    "productCode": "POR-MOB-005",
+    "color": "Grey",
+    "specifications": [
+      "Compact Design",
+      "Water Resistant",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "wireless",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872553"
+  },
+  {
+    "name": "Portronics Mobile Holders Model 6",
+    "description": "High-quality Mobile Holders designed for the modern user.",
+    "subCategory": "Mobile Holders",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 6064,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/mobile-holders-6.jpg"
+    ],
+    "model": "MOB-6",
+    "productCode": "POR-MOB-006",
+    "color": "Grey",
+    "specifications": [
+      "LED Indicator",
+      "Fast Charging",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "charging",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872553"
+  },
+  {
+    "name": "Portronics Mobile Holders Model 7",
+    "description": "High-quality Mobile Holders designed for the modern user.",
+    "subCategory": "Mobile Holders",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 1328,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/mobile-holders-7.jpg"
+    ],
+    "model": "MOB-7",
+    "productCode": "POR-MOB-007",
+    "color": "Red",
+    "specifications": [
+      "Noise Cancellation",
+      "Bluetooth 5.0",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "portable",
+      "charging"
+    ],
+    "category": "67d11c3ae5bee6f246872553"
+  },
+  {
+    "name": "Portronics Mobile Holders Model 8",
+    "description": "High-quality Mobile Holders designed for the modern user.",
+    "subCategory": "Mobile Holders",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 3296,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/mobile-holders-8.jpg"
+    ],
+    "model": "MOB-8",
+    "productCode": "POR-MOB-008",
+    "color": "Black",
+    "specifications": [
+      "Water Resistant",
+      "Bluetooth 5.0",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "tech",
+      "portable"
+    ],
+    "category": "67d11c3ae5bee6f246872553"
+  },
+  {
+    "name": "Portronics Bluetooth Car Kits Model 1",
+    "description": "High-quality Bluetooth Car Kits designed for the modern user.",
+    "subCategory": "Bluetooth Car Kits",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 2074,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-car-kits-1.jpg"
+    ],
+    "model": "BLU-1",
+    "productCode": "POR-BLU-001",
+    "color": "White",
+    "specifications": [
+      "Bluetooth 5.0",
+      "LED Indicator",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "portable",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Bluetooth Car Kits Model 2",
+    "description": "High-quality Bluetooth Car Kits designed for the modern user.",
+    "subCategory": "Bluetooth Car Kits",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 5471,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/bluetooth-car-kits-2.jpg"
+    ],
+    "model": "BLU-2",
+    "productCode": "POR-BLU-002",
+    "color": "Red",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "portable",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Bluetooth Car Kits Model 3",
+    "description": "High-quality Bluetooth Car Kits designed for the modern user.",
+    "subCategory": "Bluetooth Car Kits",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 6236,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-car-kits-3.jpg"
+    ],
+    "model": "BLU-3",
+    "productCode": "POR-BLU-003",
+    "color": "White",
+    "specifications": [
+      "LED Indicator",
+      "Noise Cancellation",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "tech",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Bluetooth Car Kits Model 4",
+    "description": "High-quality Bluetooth Car Kits designed for the modern user.",
+    "subCategory": "Bluetooth Car Kits",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 3960,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-car-kits-4.jpg"
+    ],
+    "model": "BLU-4",
+    "productCode": "POR-BLU-004",
+    "color": "Blue",
+    "specifications": [
+      "LED Indicator",
+      "Noise Cancellation",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "charging",
+      "accessory"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Bluetooth Car Kits Model 5",
+    "description": "High-quality Bluetooth Car Kits designed for the modern user.",
+    "subCategory": "Bluetooth Car Kits",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 5799,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-car-kits-5.jpg"
+    ],
+    "model": "BLU-5",
+    "productCode": "POR-BLU-005",
+    "color": "Red",
+    "specifications": [
+      "Compact Design",
+      "Fast Charging",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "tech",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Bluetooth Car Kits Model 6",
+    "description": "High-quality Bluetooth Car Kits designed for the modern user.",
+    "subCategory": "Bluetooth Car Kits",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4051,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/bluetooth-car-kits-6.jpg"
+    ],
+    "model": "BLU-6",
+    "productCode": "POR-BLU-006",
+    "color": "Blue",
+    "specifications": [
+      "Compact Design",
+      "Bluetooth 5.0",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "wireless",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Bluetooth Car Kits Model 7",
+    "description": "High-quality Bluetooth Car Kits designed for the modern user.",
+    "subCategory": "Bluetooth Car Kits",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 5416,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/bluetooth-car-kits-7.jpg"
+    ],
+    "model": "BLU-7",
+    "productCode": "POR-BLU-007",
+    "color": "Red",
+    "specifications": [
+      "Water Resistant",
+      "Fast Charging",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "accessory",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics Bluetooth Car Kits Model 8",
+    "description": "High-quality Bluetooth Car Kits designed for the modern user.",
+    "subCategory": "Bluetooth Car Kits",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 3345,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/bluetooth-car-kits-8.jpg"
+    ],
+    "model": "BLU-8",
+    "productCode": "POR-BLU-008",
+    "color": "Grey",
+    "specifications": [
+      "Water Resistant",
+      "LED Indicator",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "wireless",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b8870"
+  },
+  {
+    "name": "Portronics HDMI Cables Model 1",
+    "description": "High-quality HDMI Cables designed for the modern user.",
+    "subCategory": "HDMI Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 5009,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/hdmi-cables-1.jpg"
+    ],
+    "model": "HDM-1",
+    "productCode": "POR-HDM-001",
+    "color": "Red",
+    "specifications": [
+      "Water Resistant",
+      "Bluetooth 5.0",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "portable",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics HDMI Cables Model 2",
+    "description": "High-quality HDMI Cables designed for the modern user.",
+    "subCategory": "HDMI Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 642,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/hdmi-cables-2.jpg"
+    ],
+    "model": "HDM-2",
+    "productCode": "POR-HDM-002",
+    "color": "Red",
+    "specifications": [
+      "Water Resistant",
+      "Noise Cancellation",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "portable",
+      "wireless"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics HDMI Cables Model 3",
+    "description": "High-quality HDMI Cables designed for the modern user.",
+    "subCategory": "HDMI Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 6772,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/hdmi-cables-3.jpg"
+    ],
+    "model": "HDM-3",
+    "productCode": "POR-HDM-003",
+    "color": "White",
+    "specifications": [
+      "Water Resistant",
+      "Compact Design",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "audio",
+      "charging"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics HDMI Cables Model 4",
+    "description": "High-quality HDMI Cables designed for the modern user.",
+    "subCategory": "HDMI Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 4113,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/hdmi-cables-4.jpg"
+    ],
+    "model": "HDM-4",
+    "productCode": "POR-HDM-004",
+    "color": "Black",
+    "specifications": [
+      "Bluetooth 5.0",
+      "LED Indicator",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "wireless",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics HDMI Cables Model 5",
+    "description": "High-quality HDMI Cables designed for the modern user.",
+    "subCategory": "HDMI Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 4305,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/hdmi-cables-5.jpg"
+    ],
+    "model": "HDM-5",
+    "productCode": "POR-HDM-005",
+    "color": "White",
+    "specifications": [
+      "Compact Design",
+      "Fast Charging",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "accessory",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics HDMI Cables Model 6",
+    "description": "High-quality HDMI Cables designed for the modern user.",
+    "subCategory": "HDMI Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 7153,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/hdmi-cables-6.jpg"
+    ],
+    "model": "HDM-6",
+    "productCode": "POR-HDM-006",
+    "color": "Grey",
+    "specifications": [
+      "LED Indicator",
+      "Compact Design",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "portable",
+      "tech"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics HDMI Cables Model 7",
+    "description": "High-quality HDMI Cables designed for the modern user.",
+    "subCategory": "HDMI Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 6830,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/hdmi-cables-7.jpg"
+    ],
+    "model": "HDM-7",
+    "productCode": "POR-HDM-007",
+    "color": "Blue",
+    "specifications": [
+      "LED Indicator",
+      "Noise Cancellation",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "wireless",
+      "audio"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics HDMI Cables Model 8",
+    "description": "High-quality HDMI Cables designed for the modern user.",
+    "subCategory": "HDMI Cables",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 5092,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/hdmi-cables-8.jpg"
+    ],
+    "model": "HDM-8",
+    "productCode": "POR-HDM-008",
+    "color": "Black",
+    "specifications": [
+      "Fast Charging",
+      "Bluetooth 5.0",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "wireless",
+      "portable"
+    ],
+    "category": "67d122dc37259ef0e60b8872"
+  },
+  {
+    "name": "Portronics Remote Controls Model 1",
+    "description": "High-quality Remote Controls designed for the modern user.",
+    "subCategory": "Remote Controls",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 7019,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/remote-controls-1.jpg"
+    ],
+    "model": "REM-1",
+    "productCode": "POR-REM-001",
+    "color": "Blue",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Compact Design",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "tech",
+      "charging"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Remote Controls Model 2",
+    "description": "High-quality Remote Controls designed for the modern user.",
+    "subCategory": "Remote Controls",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 1724,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/remote-controls-2.jpg"
+    ],
+    "model": "REM-2",
+    "productCode": "POR-REM-002",
+    "color": "White",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "accessory",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Remote Controls Model 3",
+    "description": "High-quality Remote Controls designed for the modern user.",
+    "subCategory": "Remote Controls",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 5772,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/remote-controls-3.jpg"
+    ],
+    "model": "REM-3",
+    "productCode": "POR-REM-003",
+    "color": "Red",
+    "specifications": [
+      "Noise Cancellation",
+      "Fast Charging",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "accessory",
+      "portable"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Remote Controls Model 4",
+    "description": "High-quality Remote Controls designed for the modern user.",
+    "subCategory": "Remote Controls",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 1045,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/remote-controls-4.jpg"
+    ],
+    "model": "REM-4",
+    "productCode": "POR-REM-004",
+    "color": "Black",
+    "specifications": [
+      "Fast Charging",
+      "Bluetooth 5.0",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "wireless",
+      "accessory",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Remote Controls Model 5",
+    "description": "High-quality Remote Controls designed for the modern user.",
+    "subCategory": "Remote Controls",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 1392,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/remote-controls-5.jpg"
+    ],
+    "model": "REM-5",
+    "productCode": "POR-REM-005",
+    "color": "White",
+    "specifications": [
+      "LED Indicator",
+      "Noise Cancellation",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "wireless",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Remote Controls Model 6",
+    "description": "High-quality Remote Controls designed for the modern user.",
+    "subCategory": "Remote Controls",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 1312,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/remote-controls-6.jpg"
+    ],
+    "model": "REM-6",
+    "productCode": "POR-REM-006",
+    "color": "Black",
+    "specifications": [
+      "Compact Design",
+      "LED Indicator",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "portable",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Remote Controls Model 7",
+    "description": "High-quality Remote Controls designed for the modern user.",
+    "subCategory": "Remote Controls",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 5213,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/remote-controls-7.jpg"
+    ],
+    "model": "REM-7",
+    "productCode": "POR-REM-007",
+    "color": "Grey",
+    "specifications": [
+      "LED Indicator",
+      "Bluetooth 5.0",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "accessory",
+      "wireless"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Remote Controls Model 8",
+    "description": "High-quality Remote Controls designed for the modern user.",
+    "subCategory": "Remote Controls",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 2372,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/remote-controls-8.jpg"
+    ],
+    "model": "REM-8",
+    "productCode": "POR-REM-008",
+    "color": "Blue",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "wireless",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Wall Mounts Model 1",
+    "description": "High-quality Wall Mounts designed for the modern user.",
+    "subCategory": "Wall Mounts",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Aluminum",
+    "price": 6651,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/wall-mounts-1.jpg"
+    ],
+    "model": "WAL-1",
+    "productCode": "POR-WAL-001",
+    "color": "Blue",
+    "specifications": [
+      "Compact Design",
+      "Noise Cancellation",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "wireless",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Wall Mounts Model 2",
+    "description": "High-quality Wall Mounts designed for the modern user.",
+    "subCategory": "Wall Mounts",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 2228,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/wall-mounts-2.jpg"
+    ],
+    "model": "WAL-2",
+    "productCode": "POR-WAL-002",
+    "color": "Red",
+    "specifications": [
+      "Noise Cancellation",
+      "LED Indicator",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "charging",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Wall Mounts Model 3",
+    "description": "High-quality Wall Mounts designed for the modern user.",
+    "subCategory": "Wall Mounts",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 7031,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/wall-mounts-3.jpg"
+    ],
+    "model": "WAL-3",
+    "productCode": "POR-WAL-003",
+    "color": "White",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Fast Charging",
+      "Water Resistant"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "portable",
+      "charging"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Wall Mounts Model 4",
+    "description": "High-quality Wall Mounts designed for the modern user.",
+    "subCategory": "Wall Mounts",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 6365,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": 2,
+    "images": [
+      "https://example.com/images/wall-mounts-4.jpg"
+    ],
+    "model": "WAL-4",
+    "productCode": "POR-WAL-004",
+    "color": "Black",
+    "specifications": [
+      "Water Resistant",
+      "Fast Charging",
+      "LED Indicator"
+    ],
+    "reviews": [],
+    "tags": [
+      "accessory",
+      "audio",
+      "charging"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Wall Mounts Model 5",
+    "description": "High-quality Wall Mounts designed for the modern user.",
+    "subCategory": "Wall Mounts",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 2320,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/wall-mounts-5.jpg"
+    ],
+    "model": "WAL-5",
+    "productCode": "POR-WAL-005",
+    "color": "White",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "Compact Design"
+    ],
+    "reviews": [],
+    "tags": [
+      "tech",
+      "portable",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Wall Mounts Model 6",
+    "description": "High-quality Wall Mounts designed for the modern user.",
+    "subCategory": "Wall Mounts",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Plastic",
+    "price": 3817,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/wall-mounts-6.jpg"
+    ],
+    "model": "WAL-6",
+    "productCode": "POR-WAL-006",
+    "color": "Blue",
+    "specifications": [
+      "Water Resistant",
+      "LED Indicator",
+      "Noise Cancellation"
+    ],
+    "reviews": [],
+    "tags": [
+      "portable",
+      "tech",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Wall Mounts Model 7",
+    "description": "High-quality Wall Mounts designed for the modern user.",
+    "subCategory": "Wall Mounts",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "ABS",
+    "price": 6191,
+    "daysForReplacement": 7,
+    "warranty": false,
+    "yearsForWarranty": 1,
+    "images": [
+      "https://example.com/images/wall-mounts-7.jpg"
+    ],
+    "model": "WAL-7",
+    "productCode": "POR-WAL-007",
+    "color": "Black",
+    "specifications": [
+      "Noise Cancellation",
+      "Water Resistant",
+      "Fast Charging"
+    ],
+    "reviews": [],
+    "tags": [
+      "audio",
+      "wireless",
+      "accessory"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  },
+  {
+    "name": "Portronics Wall Mounts Model 8",
+    "description": "High-quality Wall Mounts designed for the modern user.",
+    "subCategory": "Wall Mounts",
+    "compatiable": [
+      "Mobile",
+      "Laptop",
+      "Tablet"
+    ],
+    "material": "Metal",
+    "price": 6220,
+    "daysForReplacement": 7,
+    "warranty": true,
+    "yearsForWarranty": null,
+    "images": [
+      "https://example.com/images/wall-mounts-8.jpg"
+    ],
+    "model": "WAL-8",
+    "productCode": "POR-WAL-008",
+    "color": "Blue",
+    "specifications": [
+      "Noise Cancellation",
+      "Fast Charging",
+      "Bluetooth 5.0"
+    ],
+    "reviews": [],
+    "tags": [
+      "charging",
+      "wireless",
+      "audio"
+    ],
+    "category": "67d11c3ae5bee6f246872554"
+  }
 ]

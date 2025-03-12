@@ -9,8 +9,8 @@ const { initializeDatabase } = require('./db/db.connection')
 const Accessories = require('./models/Accessories.models')
 const Category = require('./models/Category.models')
 
-/*const jsonData = fs.readFileSync('./categories.json')
-const categoriesData = JSON.parse(jsonData)*/
+/*const jsonData = fs.readFileSync('./accessories.json')
+const accessoriesData = JSON.parse(jsonData)*/
 
 initializeDatabase()
 
@@ -50,6 +50,7 @@ const seedAccessoryData = () => {
                 name: accessoryData.name,
                 brand: accessoryData.brand,
                 category: accessoryData.category,
+                subCategory: accessoryData.subCategory,
                 description: accessoryData.description,
                 price: accessoryData.price,
                 compatibility: accessoryData.compatibility,
@@ -68,12 +69,13 @@ const seedAccessoryData = () => {
             accessory.save()
         }
     }
-    catch{
+    catch(error){
         throw error
     }
 }
 
 //seedData()
+//seedAccessoryData()
 
 app.get('/categories', async(req, res) => {
     try{
@@ -88,9 +90,35 @@ app.get('/categories', async(req, res) => {
     }
 })
 
+app.get('/categories/:categoryId', async (req, res) => {
+    try{
+        const category = await Category.findById(req.params.categoryId)
+        if(!category){
+            res.status(404).json({error: 'Category not found'})
+        }
+        res.status(200).json(category)
+    }
+    catch(error){
+        res.status(500).json({error: 'Internal Server Error'})
+    }
+})
+
 app.get('/products', async (req, res) => {
     try{
         const accessories = await Accessories.find()
+        if(!accessories){
+            res.status(404).json({error: 'No products found'})
+        }
+        res.status(200).json(accessories)
+    }
+    catch(error){
+        res.status(500).json({error: 'Internal Server Error'})
+    }
+})
+
+app.get('/category/products/:categoryId', async(req, res) => {
+    try{
+        const accessories = await Accessories.find({category: req.params.categoryId})
         if(!accessories){
             res.status(404).json({error: 'No products found'})
         }

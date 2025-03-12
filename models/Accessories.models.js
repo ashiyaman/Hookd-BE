@@ -9,7 +9,7 @@ const accessoriesSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    category: {
+    subCategory: {
         type: String,
         required: true
     },
@@ -46,7 +46,8 @@ const accessoriesSchema = new mongoose.Schema({
     tags: [String],
     category: {
         type: mongoose.Types.ObjectId,
-        ref: 'Category'
+        ref: 'Category',
+        required: true
     }
 },
 {timestamps: true})
