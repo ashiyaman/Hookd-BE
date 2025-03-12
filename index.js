@@ -2,17 +2,20 @@ const mongoose = require('mongoose')
 const express = require('express')
 require('dotenv').config()
 const fs = require('fs')
+const cors = require('cors')
 
 const Accessories = require('./models/Accessories.models')
 
 const { initializeDatabase } = require('./db/db.connection')
-const jsonData = fs.readFileSync('./accessories.json')
-const accessoriesData = JSON.parse(jsonData)
-console.log(accessoriesData)
+
+/*const jsonData = fs.readFileSync('./accessories.json')
+const accessoriesData = JSON.parse(jsonData)*/
 
 initializeDatabase()
 
 const app = express()
+app.use(cors())
+app.use(express.json())
 
 app.get('/', (req, res) => {
     try{
@@ -53,7 +56,7 @@ const seedData = () => {
     }
 }
 
-seedData()
+//seedData()
 
 app.get('/products', async (req, res) => {
     try{
