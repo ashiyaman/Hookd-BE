@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Audio",
+      "image": "https://example.com/images/audio.jpg",
+      "description": "Explore headphones, earbuds, Bluetooth speakers, and more to elevate your sound experience."
+    },
+    {
+      "name": "Car Accessories",
+      "image": "https://example.com/images/car-accessories.jpg",
+      "description": "Chargers, mounts, Bluetooth devices, and more for a smarter drive."
+    },
+    {
+      "name": "TV Accessories",
+      "image": "https://example.com/images/tv-accessories.jpg",
+      "description": "High-quality HDMI cables, wall mounts, remotes, and other TV essentials."
+    },
+    {
+      "name": "Mobile",
+      "image": "https://example.com/images/mobile.jpg",
+      "description": "Cases, screen protectors, chargers, and accessories for all popular mobile brands."
+    },
+    {
+      "name": "Computer",
+      "image": "https://example.com/images/computer.jpg",
+      "description": "Keyboards, mice, USB hubs, and other accessories to boost your productivity."
+    }
+  ]
+  

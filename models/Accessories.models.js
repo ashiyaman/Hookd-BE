@@ -43,7 +43,11 @@ const accessoriesSchema = new mongoose.Schema({
     color: String,
     specifications: [String],
     reviews: [String],
-    tags: [String]
+    tags: [String],
+    category: {
+        type: mongoose.Types.ObjectId,
+        ref: 'Category'
+    }
 },
 {timestamps: true})
 

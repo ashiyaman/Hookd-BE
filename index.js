@@ -4,12 +4,13 @@ require('dotenv').config()
 const fs = require('fs')
 const cors = require('cors')
 
-const Accessories = require('./models/Accessories.models')
-
 const { initializeDatabase } = require('./db/db.connection')
 
-/*const jsonData = fs.readFileSync('./accessories.json')
-const accessoriesData = JSON.parse(jsonData)*/
+const Accessories = require('./models/Accessories.models')
+const Category = require('./models/Category.models')
+
+/*const jsonData = fs.readFileSync('./categories.json')
+const categoriesData = JSON.parse(jsonData)*/
 
 initializeDatabase()
 
@@ -27,6 +28,22 @@ app.get('/', (req, res) => {
 })
 
 const seedData = () => {
+    try{
+        for(const categoryData of categoriesData){
+            const category = new Category({
+                name: categoryData.name,
+                image: categoryData.image,
+                description: categoryData.description
+            })
+            category.save()
+        }
+    }
+    catch(error){
+        console.log(error)
+    }
+}
+
+const seedAccessoryData = () => {
    try{
         for(const accessoryData of accessoriesData){
             const accessory = new Accessories({
@@ -57,6 +74,19 @@ const seedData = () => {
 }
 
 //seedData()
+
+app.get('/categories', async(req, res) => {
+    try{
+        const categories = await Category.find()
+        if(!categories){
+            res.status(404).json({error: 'No categories found'})
+        }
+        res.status(200).json(categories)
+    }
+    catch(error){
+        res.status(500).json({error: 'Internal Server Error'})
+    }
+})
 
 app.get('/products', async (req, res) => {
     try{
